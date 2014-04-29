@@ -1,0 +1,7 @@
+{"html": [
+        {"valueId": "menuPeople", "url": "../js/welcome/html/people.html"},
+        {"valueId": "menuBusiness", "url": "../js/welcome/html/business.html"},
+        {"valueId": "menuNpo", "url": "../js/welcome/html/npo.html"},
+        {"valueId": "menuDevelopers", "url": "../js/welcome/html/developers.html"}
+    ]
+}  
